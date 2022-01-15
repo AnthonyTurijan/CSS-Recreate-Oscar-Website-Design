@@ -1,0 +1,29 @@
+/* * {
+    border: 1px solid teal;
+} */
+body {
+    display: flex;
+    flex-wrap:wrap;
+    width: auto;
+    box-shadow: 5px 5px #ddd;
+    padding: 2em 1em;
+    margin:auto;
+}
+.logo {
+    width:auto;
+    height: 60%;
+}
+ul {
+    list-style: none;
+    
+}
+li {
+    display: inline-block;
+    padding: 1em;
+}
+.form {
+    position: relative;
+    left:212px;
+    bottom: 238px;
+    box-shadow: 2px 2px 2px gray;
+}
